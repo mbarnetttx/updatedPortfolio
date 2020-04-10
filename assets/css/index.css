@@ -1,0 +1,79 @@
+  
+
+
+html, body {
+    margin: 0;
+    height: 100%;
+    background-image: url('../images/herringbone.png');
+}
+
+body { 
+
+   
+    width: 100%;
+    font-size: medium;
+    box-sizing: border-box;
+
+} 
+
+
+#main {
+    width: 100%;
+    height: 100%;
+    background-color: white;
+    padding: 50px;
+
+}
+
+
+.image2 {
+    width: 150px;
+    height: 150px;
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.image-fluid {
+    width: 200px;
+    height: 200px;
+    max-width: 100%;
+    max-height: 100%
+}
+
+.main {
+		
+        margin: 0 auto;
+        width: 960px;
+        background-color: #7c2222;
+        padding: 20px;
+        margin-bottom: 50px;
+        margin-top: 50px;
+    
+    
+    
+    
+}
+
+#contact {
+    font-weight: bolder;
+    font-size: larger;
+}
+
+.footer {
+    
+   
+    left: 0;
+    bottom: 0;
+    width: 100%;
+  
+    background-color: #4aaaa5
+    
+    
+  }
+ .footer, .push {
+        height: 50px;
+ }
+ .wrapper{
+      min-height: 100%;
+      margin-bottom: -50px;
+ }

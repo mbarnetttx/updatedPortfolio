@@ -1,0 +1,37 @@
+
+
+@media screen and (min-width: 576px){
+
+    .containermain{
+
+    padding-right: 200px;
+}
+
+  h2 {
+      left: 400px;
+
+}
+}
+
+
+.containermain {
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+h2 {
+    padding-left: 100px;
+}
+
+.footer {
+    position: absolute;
+   
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    height: 70px;
+    background-color: #4aaaa5
+    
+    
+  }
+ 

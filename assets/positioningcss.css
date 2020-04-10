@@ -1,0 +1,43 @@
+body {
+	background-color: #ffffff;
+	margin: 0;
+	padding: 0;
+	font-family: 'arial', 'helvetica neue', times, times new roman, serif; .
+	line-height: 150%;
+	text-align: justify;
+
+}
+
+
+.wrapper {
+	max-width: 700px;
+	padding-left: 300px;
+}
+
+.box1  {
+	width: 200px;
+	height: 200px;
+	background-color: #666;
+	position: fixed;
+	
+}
+
+.box2 {
+	width: auto;
+	height: 200px;
+	background-color: #eee;
+	position: relative;
+
+}
+
+.box3  {
+	background-color: #666;
+	width: 200px;
+	height: 100px;
+	position: absolute;
+	left: 80%;
+	bottom: 0%
+
+
+}
+
